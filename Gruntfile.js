@@ -23,7 +23,7 @@ module.exports = function(grunt) {
         },
 
         files: {
-          'dest': 'test/template_1.html'
+          'dest/test1': 'test/template_1.html'
         }
       },
 
@@ -39,7 +39,7 @@ module.exports = function(grunt) {
         },
 
         files: {
-          'dest': 'test/template_2.html'
+          'dest/test2': 'test/template_2.html'
         }
       }
 
