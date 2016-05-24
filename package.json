@@ -20,6 +20,9 @@
       "url": "https://github.com/abusedmedia/grunt-json-templating/blob/master/LICENSE-MIT"
     }
   ],
+  "scripts": {
+    "tag": "npm version patch && git push --tags"
+  },
   "engines": {
     "node": ">= 0.12.0"
   },
