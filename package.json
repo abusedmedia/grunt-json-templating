@@ -1,7 +1,7 @@
 {
   "name": "grunt-json-templating",
   "description": "Generate files and templating from json data array",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/abusedmedia/grunt-json-templating",
   "author": {
     "name": "abusedmedia",
@@ -36,6 +36,9 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin", "json", "templating", "array"
+    "gruntplugin",
+    "json",
+    "templating",
+    "array"
   ]
 }
